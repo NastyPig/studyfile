@@ -1,2 +1,2 @@
-# DL-study-code
-files for studing
+# Code Learning
+COdes about my studing.
