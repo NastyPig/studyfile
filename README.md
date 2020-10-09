@@ -1,2 +1,2 @@
 # Code Learning
-COdes about my studing.
+Codes about my studing.
